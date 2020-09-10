@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* what color of your parachute?
+* sherlock homes
+* c and pointer
